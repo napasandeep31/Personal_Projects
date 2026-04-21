@@ -6,4 +6,4 @@ scikit-learn
 seaborn
 plotly
 nltk 
-tensorflow-cpu
+tensorflow
